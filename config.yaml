@@ -1,0 +1,29 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "AXYZdong"
+repo_name: "event-camera-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: True
+use_title: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+#publish_wechat: False
+
+# file paths
+json_readme_path: './docs/ec-arxiv-daily.json'
+json_gitpage_path: './docs/ec-arxiv-daily-web.json'
+#json_wechat_path: './docs/rc-arxiv-daily-wechat.json'
+
+md_gitpage_path: './docs/index.md'
+md_readme_path: './README.md'
+
+# keywords to search
+keywords:
+  "Event Camera":
+    filters:
+      - 'ti:"Event Camera" OR abs:"Event Camera"'
+      - 'ti:"Neuromorphic Camera" OR abs:"Neuromorphic Camera"'
+      - 'ti:"Dynamic Vision Sensor" OR abs:"Dynamic Vision Sensor"'
