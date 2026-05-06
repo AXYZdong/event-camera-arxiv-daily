@@ -368,21 +368,21 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"contributors/AXYZdong/event-camera-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/AXYZdong/"
-                     f"reservoir-computing-arxiv-daily/graphs/contributors\n"))
+                     f"event-camera-arxiv-daily/graphs/contributors\n"))
             f.write((f"[forks-shield]: https://img.shields.io/github/forks/AXYZdong/"
-                     f"reservoir-computing-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"event-camera-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[forks-url]: https://github.com/AXYZdong/"
-                     f"reservoir-computing-arxiv-daily/network/members\n"))
+                     f"event-camera-arxiv-daily/network/members\n"))
             f.write((f"[stars-shield]: https://img.shields.io/github/stars/AXYZdong/"
-                     f"reservoir-computing-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"event-camera-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[stars-url]: https://github.com/AXYZdong/"
-                     f"reservoir-computing-arxiv-daily/stargazers\n"))
+                     f"event-camera-arxiv-daily/stargazers\n"))
             f.write((f"[issues-shield]: https://img.shields.io/github/issues/AXYZdong/"
-                     f"reservoir-computing-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"event-camera-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[issues-url]: https://github.com/AXYZdong/"
-                     f"reservoir-computing-arxiv-daily/issues\n\n"))
+                     f"event-camera-arxiv-daily/issues\n\n"))
 
     logging.info(f"{task} finished")
 
