@@ -8,15 +8,14 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 
-            <p align="center">
-              <h1 align="center">
-                Reservoir Computing Arxiv Daily
-              </h1>
-            </p>
+<p align="center">
+  <h1 align="center">
+    Event Camera Arxiv Daily
+  </h1>
+</p>
 
-            This repository collects daily updated papers on Reservoir Computing from [arXiv](https://arxiv.org/), 
-            including Echo State Networks (ESN) and Liquid State Machine (LSM).
-            ## Updated on 2025.09.13
+This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
+## Updated on 2026.05.06
 ## Reservoir Computing
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -204,6 +203,21 @@ layout: default
 |**2016-04-19**|**An Online Structural Plasticity Rule for Generating Better Reservoirs**|Subhrajit Roy et.al.|[1604.05459](http://arxiv.org/abs/1604.05459)|null|
 |**2014-11-20**|**Liquid State Machine with Dendritically Enhanced Readout for Low-power, Neuromorphic VLSI Implementations**|Subhrajit Roy et.al.|[1411.5458](http://arxiv.org/abs/1411.5458)|null|
 |**2011-07-08**|**Liquid State Machines in Adbiatic Quantum Computers for General Computation**|Joshua Jay Herman et.al.|[0709.0883](http://arxiv.org/abs/0709.0883)|null|
+
+## Event Camera
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-03**|**SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors**|Yahan Yang et.al.|[2605.01937](http://arxiv.org/abs/2605.01937)|null|
+|**2026-05-04**|**REALM: An RGB and Event Aligned Latent Manifold for Cross-Modal Perception**|Vincenzo Polizzi et.al.|[2605.00271](http://arxiv.org/abs/2605.00271)|null|
+|**2026-04-29**|**Event-based Liveness Detection using Temporal Ocular Dynamics: An Exploratory Approach**|Nicolas Mastropasqua et.al.|[2604.26285](http://arxiv.org/abs/2604.26285)|null|
+|**2026-04-27**|**Event-based SLAM Benchmark for High-Speed Maneuvers**|Sheng Zhong et.al.|[2604.24033](http://arxiv.org/abs/2604.24033)|null|
+|**2026-04-25**|**Keypoint-based Dynamic Object 6-DoF Pose Tracking via Event Camera**|Zhe Wang et.al.|[2604.23387](http://arxiv.org/abs/2604.23387)|null|
+|**2026-04-24**|**EvFlow-GS: Event Enhanced Motion Deblurring with Optical Flow for 3D Gaussian Splatting**|Feiyu An et.al.|[2604.22183](http://arxiv.org/abs/2604.22183)|null|
+|**2026-04-20**|**Match-Any-Events: Zero-Shot Motion-Robust Feature Matching Across Wide Baselines for Event Cameras**|Ruijun Zhang et.al.|[2604.18744](http://arxiv.org/abs/2604.18744)|null|
+|**2026-04-20**|**Relative State Estimation using Event-Based Propeller Sensing**|Ravi Kumar Thakur et.al.|[2604.18289](http://arxiv.org/abs/2604.18289)|null|
+|**2026-04-19**|**Infrastructure-Centric World Models: Bridging Temporal Depth and Spatial Breadth for Roadside Perception**|Siyuan Meng et.al.|[2604.17651](http://arxiv.org/abs/2604.17651)|null|
+|**2026-04-18**|**Adverse-to-the-eXtreme Panoptic Segmentation: URVIS 2026 Study and Benchmark**|Yiting Wang et.al.|[2604.16984](http://arxiv.org/abs/2604.16984)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/reservoir-computing-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/reservoir-computing-arxiv-daily/graphs/contributors
