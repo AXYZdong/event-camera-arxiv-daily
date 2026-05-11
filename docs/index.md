@@ -15,11 +15,17 @@ layout: default
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.05.06
+## Updated on 2026.05.11
 ## Event Camera
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**AERO-VIS: Asynchronous Event-based Real-time Onboard Visual-Inertial SLAM**|Yannick Burkhardt et.al.|[2605.07885](http://arxiv.org/abs/2605.07885)|null|
+|**2026-05-08**|**Aquatic Neuromorphic Optical Flow**|Pei Zhang et.al.|[2605.07653](http://arxiv.org/abs/2605.07653)|null|
+|**2026-05-08**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192](http://arxiv.org/abs/2605.07192)|null|
+|**2026-05-07**|**Dynamic Pondering Sparsity-aware Mixture-of-Experts Transformer for Event Stream based Visual Object Tracking**|Shiao Wang et.al.|[2605.06112](http://arxiv.org/abs/2605.06112)|null|
+|**2026-05-07**|**Real-world Latency Analysis of Vehicular Visible Light Communication with Multiple LED Transmitters and an Event-Based Camera**|Ryota Soga et.al.|[2605.05541](http://arxiv.org/abs/2605.05541)|null|
+|**2026-05-05**|**InterFuserDVS: Event-Enhanced Sensor Fusion for Safe RL-Based Decision Making**|Mustafa Sakhaia et.al.|[2605.04355](http://arxiv.org/abs/2605.04355)|null|
 |**2026-05-03**|**SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors**|Yahan Yang et.al.|[2605.01937](http://arxiv.org/abs/2605.01937)|null|
 |**2026-05-04**|**REALM: An RGB and Event Aligned Latent Manifold for Cross-Modal Perception**|Vincenzo Polizzi et.al.|[2605.00271](http://arxiv.org/abs/2605.00271)|null|
 |**2026-04-29**|**Event-based Liveness Detection using Temporal Ocular Dynamics: An Exploratory Approach**|Nicolas Mastropasqua et.al.|[2604.26285](http://arxiv.org/abs/2604.26285)|null|
@@ -85,7 +91,7 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2026-02-27**|**Motion-aware Event Suppression for Event Cameras**|Roberto Pellerito et.al.|[2602.23204](http://arxiv.org/abs/2602.23204)|null|
 |**2026-02-26**|**Locally Adaptive Decay Surfaces for High-Speed Face and Landmark Detection with Event Cameras**|Paul Kielty et.al.|[2602.23101](http://arxiv.org/abs/2602.23101)|null|
 |**2026-02-25**|**RGB-Event HyperGraph Prompt for Kilometer Marker Recognition based on Pre-trained Foundation Models**|Xiaoyu Xian et.al.|[2602.22026](http://arxiv.org/abs/2602.22026)|null|
-|**2026-02-22**|**UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models**|Gang Xu et.al.|[2602.19202](http://arxiv.org/abs/2602.19202)|null|
+|**2026-05-07**|**UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models**|Gang Xu et.al.|[2602.19202](http://arxiv.org/abs/2602.19202)|null|
 |**2026-02-20**|**RoEL: Robust Event-based 3D Line Reconstruction**|Gwangtak Bae et.al.|[2602.18258](http://arxiv.org/abs/2602.18258)|null|
 |**2026-02-16**|**Neurosim: A Fast Simulator for Neuromorphic Robot Perception**|Richeek Das et.al.|[2602.15018](http://arxiv.org/abs/2602.15018)|null|
 |**2026-02-09**|**SynSacc: A Blender-to-V2E Pipeline for Synthetic Neuromorphic Eye-Movement Data and Sim-to-Real Spiking Model Training**|Khadija Iddrisu et.al.|[2602.08726](http://arxiv.org/abs/2602.08726)|null|
