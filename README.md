@@ -11,7 +11,7 @@
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,8 +23,14 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Denoising for Neuromorphic Cameras Based on Graph Spectral Features**|Shimpei Harada et.al.|[2605.14734](http://arxiv.org/abs/2605.14734)|null|
+|**2026-05-13**|**Memristor Technologies for Dynamic Vision Sensors: A Critical Assessment and Research Roadmap**|Mohamad Yazan Sadoun et.al.|[2605.13699](http://arxiv.org/abs/2605.13699)|null|
+|**2026-05-12**|**EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition with Stereo Event Cameras**|Luming Wang et.al.|[2605.12297](http://arxiv.org/abs/2605.12297)|null|
+|**2026-05-11**|**Neuromorphic Monocular Depth Estimation with Uncertainty Modeling**|Viktor Bergkvist et.al.|[2605.10675](http://arxiv.org/abs/2605.10675)|null|
+|**2026-05-14**|**M $^2$ E-UAV: A Benchmark and Analysis for Onboard Motion-on-Motion Event-Based Tiny UAV Detection**|Weiqi Yan et.al.|[2605.10496](http://arxiv.org/abs/2605.10496)|null|
+|**2026-05-14**|**Rethinking Event-Based Object Dtection through Representation-Level Temporal Aggregation and Model-Level Hypergraph Reasoning**|Meisen Wang et.al.|[2605.08825](http://arxiv.org/abs/2605.08825)|null|
 |**2026-05-08**|**AERO-VIS: Asynchronous Event-based Real-time Onboard Visual-Inertial SLAM**|Yannick Burkhardt et.al.|[2605.07885](http://arxiv.org/abs/2605.07885)|null|
-|**2026-05-08**|**Aquatic Neuromorphic Optical Flow**|Pei Zhang et.al.|[2605.07653](http://arxiv.org/abs/2605.07653)|null|
+|**2026-05-13**|**Aquatic Neuromorphic Optical Flow**|Pei Zhang et.al.|[2605.07653](http://arxiv.org/abs/2605.07653)|null|
 |**2026-05-08**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192](http://arxiv.org/abs/2605.07192)|null|
 |**2026-05-07**|**Dynamic Pondering Sparsity-aware Mixture-of-Experts Transformer for Event Stream based Visual Object Tracking**|Shiao Wang et.al.|[2605.06112](http://arxiv.org/abs/2605.06112)|null|
 |**2026-05-07**|**Real-world Latency Analysis of Vehicular Visible Light Communication with Multiple LED Transmitters and an Event-Based Camera**|Ryota Soga et.al.|[2605.05541](http://arxiv.org/abs/2605.05541)|null|
@@ -104,7 +110,7 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2026-02-03**|**EventNeuS: 3D Mesh Reconstruction from a Single Event Camera**|Shreyas Sachan et.al.|[2602.03847](http://arxiv.org/abs/2602.03847)|null|
 |**2026-02-02**|**Rate-Distortion Analysis of Optically Passive Vision Compression**|Ronald Ogden et.al.|[2602.02768](http://arxiv.org/abs/2602.02768)|null|
 |**2026-02-17**|**Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL**|Julian Lemmel et.al.|[2602.02236](http://arxiv.org/abs/2602.02236)|null|
-|**2026-02-01**|**Where to Attend: A Principled Vision-Centric Position Encoding with Parabolas**|Christoffer Koo Øhrstrøm et.al.|[2602.01418](http://arxiv.org/abs/2602.01418)|null|
+|**2026-05-11**|**Parabolic Position Encoding: Vision-Centric, Principled, Extrapolatable, General**|Christoffer Koo Øhrstrøm et.al.|[2602.01418](http://arxiv.org/abs/2602.01418)|null|
 |**2026-01-27**|**Event Driven Clustering Algorithm**|David El-Chai Ben-Ezra et.al.|[2602.00115](http://arxiv.org/abs/2602.00115)|null|
 |**2026-01-24**|**SMV-EAR: Bring Spatiotemporal Multi-View Representation Learning into Efficient Event-Based Action Recognition**|Rui Fan et.al.|[2601.17391](http://arxiv.org/abs/2601.17391)|null|
 |**2026-01-20**|**SandWorm: Event-based Visuotactile Perception with Active Vibration for Screw-Actuated Robot in Granular Media**|Shoujie Li et.al.|[2601.14128](http://arxiv.org/abs/2601.14128)|null|
@@ -130,7 +136,7 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2025-12-17**|**Asynchronous Event Stream Noise Filtering for High-frequency Structure Deformation Measurement**|Yifei Bian et.al.|[2512.15055](http://arxiv.org/abs/2512.15055)|null|
 |**2025-12-20**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](http://arxiv.org/abs/2512.14595)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/event-camera-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/event-camera-arxiv-daily/graphs/contributors
