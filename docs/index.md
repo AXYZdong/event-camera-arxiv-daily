@@ -15,12 +15,22 @@ layout: default
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.05.18
+## Updated on 2026.05.24
 ## Event Camera
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-14**|**Denoising for Neuromorphic Cameras Based on Graph Spectral Features**|Shimpei Harada et.al.|[2605.14734](http://arxiv.org/abs/2605.14734)|null|
+|**2026-05-21**|**EventGait: Towards Robust Gait Recognition with Event Streams**|Senyan Xu et.al.|[2605.22139](http://arxiv.org/abs/2605.22139)|null|
+|**2026-05-08**|**A Task-Agnostic Algebraic Integrity Metric for Event-Camera Streams Toward SOTIF-Compliant Perception using Pearson Correlation Coefficient**|Arthur de Miranda Neto et.al.|[2605.21500](http://arxiv.org/abs/2605.21500)|null|
+|**2026-05-20**|**DarkShake-DVS: Event-based Human Action Recognition under Low-light andShaking Camera Conditions**|Jiaqi Chen et.al.|[2605.20680](http://arxiv.org/abs/2605.20680)|null|
+|**2026-05-19**|**EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning**|Pengtao Ma et.al.|[2605.19506](http://arxiv.org/abs/2605.19506)|null|
+|**2026-05-21**|**RE-VLM: Event-Augmented Vision-Language Model for Scene Understanding**|Hanqing Liu et.al.|[2605.19329](http://arxiv.org/abs/2605.19329)|null|
+|**2026-05-18**|**See Silhouettes in Motion with Neuromorphic Vision**|Pei Zhang et.al.|[2605.17984](http://arxiv.org/abs/2605.17984)|null|
+|**2026-05-17**|**Brain-inspired spike-timing plasticity for reliable label-efficient event-camera vision**|Mohamad Yazan Sadoun et.al.|[2605.17686](http://arxiv.org/abs/2605.17686)|null|
+|**2026-05-16**|**NeuroLiDAR: Adaptive Frame Rate Depth Sensing via Neuromorphic Event-LiDAR Fusion**|Darshana Rathnayake et.al.|[2605.16805](http://arxiv.org/abs/2605.16805)|null|
+|**2026-05-13**|**NERVE: A Neuromorphic Vision and Radar Ensemble for Multi-Sensor Fusion Research**|Omar Mansour et.al.|[2605.16414](http://arxiv.org/abs/2605.16414)|null|
+|**2026-05-04**|**Noise2Params: Unification and Parameter Determination from Noise via a Probabilistic Event Camera Model**|Owen Root et.al.|[2605.16317](http://arxiv.org/abs/2605.16317)|null|
+|**2026-05-20**|**Denoising for Neuromorphic Cameras Based on Graph Spectral Features**|Shimpei Harada et.al.|[2605.14734](http://arxiv.org/abs/2605.14734)|null|
 |**2026-05-13**|**Memristor Technologies for Dynamic Vision Sensors: A Critical Assessment and Research Roadmap**|Mohamad Yazan Sadoun et.al.|[2605.13699](http://arxiv.org/abs/2605.13699)|null|
 |**2026-05-12**|**EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition with Stereo Event Cameras**|Luming Wang et.al.|[2605.12297](http://arxiv.org/abs/2605.12297)|null|
 |**2026-05-11**|**Neuromorphic Monocular Depth Estimation with Uncertainty Modeling**|Viktor Bergkvist et.al.|[2605.10675](http://arxiv.org/abs/2605.10675)|null|
@@ -63,10 +73,10 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2026-03-28**|**An End-to-end Flight Control Network for High-speed UAV Obstacle Avoidance based on Event-Depth Fusion**|Dikai Shang et.al.|[2603.27181](http://arxiv.org/abs/2603.27181)|null|
 |**2026-03-17**|**EMPD: An Event-based Multimodal Physiological Dataset for Remote Pulse Wave Detection**|Qian Feng et.al.|[2603.26699](http://arxiv.org/abs/2603.26699)|null|
 |**2026-03-26**|**Synergistic Event-SVE Imaging for Quantitative Propellant Combustion Diagnostics**|Jing Tao et.al.|[2603.25054](http://arxiv.org/abs/2603.25054)|null|
-|**2026-03-24**|**Bio-Inspired Event-Based Visual Servoing for Ground Robots**|Maral Mordad et.al.|[2603.23672](http://arxiv.org/abs/2603.23672)|null|
+|**2026-05-18**|**Bio-Inspired Event-Based Visual Servoing for Ground Robots**|Maral Mordad et.al.|[2603.23672](http://arxiv.org/abs/2603.23672)|null|
 |**2026-03-24**|**TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation**|Jini Yang et.al.|[2603.23487](http://arxiv.org/abs/2603.23487)|null|
 |**2026-03-24**|**Generative Event Pretraining with Foundation Model Alignment**|Jianwen Cao et.al.|[2603.23032](http://arxiv.org/abs/2603.23032)|null|
-|**2026-03-23**|**Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTEvent**|Lokeshwaran Manohar et.al.|[2603.21787](http://arxiv.org/abs/2603.21787)|null|
+|**2026-05-17**|**Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTevent**|Lokeshwaran Manohar et.al.|[2603.21787](http://arxiv.org/abs/2603.21787)|null|
 |**2026-03-23**|**No Dense Tensors Needed: Fully Sparse Object Detection on Event-Camera Voxel Grids**|Mohamad Yazan Sadoun et.al.|[2603.21638](http://arxiv.org/abs/2603.21638)|null|
 |**2026-03-21**|**High-Quality and Efficient Turbulence Mitigation with Events**|Xiaoran Zhang et.al.|[2603.20708](http://arxiv.org/abs/2603.20708)|null|
 |**2026-03-20**|**NEC-Diff: Noise-Robust Event-RAW Complementary Diffusion for Seeing Motion in Extreme Darkness**|Haoyue Liu et.al.|[2603.20005](http://arxiv.org/abs/2603.20005)|null|
@@ -106,7 +116,7 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2026-02-04**|**HoloEv-Net: Efficient Event-based Action Recognition via Holographic Spatial Embedding and Global Spectral Gating**|Weidong Hao et.al.|[2602.04182](http://arxiv.org/abs/2602.04182)|null|
 |**2026-02-03**|**EventNeuS: 3D Mesh Reconstruction from a Single Event Camera**|Shreyas Sachan et.al.|[2602.03847](http://arxiv.org/abs/2602.03847)|null|
 |**2026-02-02**|**Rate-Distortion Analysis of Optically Passive Vision Compression**|Ronald Ogden et.al.|[2602.02768](http://arxiv.org/abs/2602.02768)|null|
-|**2026-02-17**|**Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL**|Julian Lemmel et.al.|[2602.02236](http://arxiv.org/abs/2602.02236)|null|
+|**2026-05-16**|**Adaptive Control in Autonomous Driving via Real-Time Recurrent RL**|Julian Lemmel et.al.|[2602.02236](http://arxiv.org/abs/2602.02236)|null|
 |**2026-05-11**|**Parabolic Position Encoding: Vision-Centric, Principled, Extrapolatable, General**|Christoffer Koo Øhrstrøm et.al.|[2602.01418](http://arxiv.org/abs/2602.01418)|null|
 |**2026-01-27**|**Event Driven Clustering Algorithm**|David El-Chai Ben-Ezra et.al.|[2602.00115](http://arxiv.org/abs/2602.00115)|null|
 |**2026-01-24**|**SMV-EAR: Bring Spatiotemporal Multi-View Representation Learning into Efficient Event-Based Action Recognition**|Rui Fan et.al.|[2601.17391](http://arxiv.org/abs/2601.17391)|null|
