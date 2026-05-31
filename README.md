@@ -11,7 +11,7 @@
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.05.25
+## Updated on 2026.05.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,6 +23,16 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-27**|**CLANE: Continual Learning of Actions on Neuromorphic Hardware from Event Cameras**|Elvin Hajizada et.al.|[2605.28387](http://arxiv.org/abs/2605.28387)|null|
+|**2026-05-27**|**EventShiftFlow: Towards Hardware-efficient FPGA-based Flow Estimation**|Arianna Alonso Bizzi et.al.|[2605.28312](http://arxiv.org/abs/2605.28312)|null|
+|**2026-05-27**|**Automated Estimation of Impact Time, Impact Location, and Shuttlecock Speed in Badminton Smashes Using Event Cameras**|Yudai Washida et.al.|[2605.28011](http://arxiv.org/abs/2605.28011)|null|
+|**2026-05-26**|**Design of a Real-time Asynchronous Monocular Odometry for Planetary Exploration**|Benat Inigo et.al.|[2605.27661](http://arxiv.org/abs/2605.27661)|null|
+|**2026-05-26**|**Can We Hear from Events? Generating Speech from Event Camera**|Jingping Fang et.al.|[2605.26672](http://arxiv.org/abs/2605.26672)|null|
+|**2026-05-25**|**NightSight: Passive Computation for Navigation in Dark Using Events**|Deepak Singh et.al.|[2605.26330](http://arxiv.org/abs/2605.26330)|null|
+|**2026-05-25**|**Event-to-Video Reconstruction using Spatio-Temporal and Frequency-Enhanced Deep Neural Networks**|Ramna Maqsood et.al.|[2605.25804](http://arxiv.org/abs/2605.25804)|null|
+|**2026-05-23**|**AdaFuse-Det: Adaptive Cross-Modal Fusion of Event Cameras for Robust Object Detection in Low-Light RGB Imagery**|Raju Imandi et.al.|[2605.24691](http://arxiv.org/abs/2605.24691)|null|
+|**2026-05-23**|**LC-Flow: Learning Local Continuous Optical Flow and Confidence from events**|Gunwoo Jeon et.al.|[2605.24604](http://arxiv.org/abs/2605.24604)|null|
+|**2026-05-22**|**Exploring deep learning for Event-Based Saliency Prediction with a Transformer-based model**|Romaric Mazna et.al.|[2605.23790](http://arxiv.org/abs/2605.23790)|null|
 |**2026-05-21**|**EventGait: Towards Robust Gait Recognition with Event Streams**|Senyan Xu et.al.|[2605.22139](http://arxiv.org/abs/2605.22139)|null|
 |**2026-05-08**|**A Task-Agnostic Algebraic Integrity Metric for Event-Camera Streams Toward SOTIF-Compliant Perception using Pearson Correlation Coefficient**|Arthur de Miranda Neto et.al.|[2605.21500](http://arxiv.org/abs/2605.21500)|null|
 |**2026-05-20**|**DarkShake-DVS: Event-based Human Action Recognition under Low-light andShaking Camera Conditions**|Jiaqi Chen et.al.|[2605.20680](http://arxiv.org/abs/2605.20680)|null|
@@ -146,7 +156,7 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2025-12-17**|**Asynchronous Event Stream Noise Filtering for High-frequency Structure Deformation Measurement**|Yifei Bian et.al.|[2512.15055](http://arxiv.org/abs/2512.15055)|null|
 |**2025-12-20**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](http://arxiv.org/abs/2512.14595)|null|
 
-<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/event-camera-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/event-camera-arxiv-daily/graphs/contributors
