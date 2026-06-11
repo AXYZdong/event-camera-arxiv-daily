@@ -15,11 +15,18 @@ layout: default
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.06.08
+## Updated on 2026.06.11
 ## Event Camera
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**EventRadar: Long-Range Visual UAV Discovery through Spatiotemporal Event Sensing**|Zhiting Zhou et.al.|[2606.11285](http://arxiv.org/abs/2606.11285)|null|
+|**2026-06-09**|**Analog Quantum Asynchronous Event-Based Graph Neural Network**|Kristian Sotirov et.al.|[2606.11000](http://arxiv.org/abs/2606.11000)|null|
+|**2026-06-08**|**Minimal Solvers for Full-DoF Motion Estimation from Asynchronous Differential SfM**|Shuo Pan et.al.|[2606.09218](http://arxiv.org/abs/2606.09218)|null|
+|**2026-06-08**|**Event-driven dynamic trajectories reconstruction and measurement of mechanical parameters for fragments**|Haoyang Li et.al.|[2606.09208](http://arxiv.org/abs/2606.09208)|null|
+|**2026-06-08**|**A Geometric Framework for Absolute Pose and Velocity Estimation with Event Cameras**|Zibin Liu et.al.|[2606.09139](http://arxiv.org/abs/2606.09139)|null|
+|**2026-06-06**|**Programmable Silicon Retina on Pixel Processor Array**|Maciej Lewandowski et.al.|[2606.08370](http://arxiv.org/abs/2606.08370)|null|
+|**2026-06-05**|**FS-DVS: A Frequency-Selective Dynamic Visual Sensing Paradigm for Enhancing Information Completeness**|Feiyu Ji et.al.|[2606.06856](http://arxiv.org/abs/2606.06856)|null|
 |**2026-06-02**|**Towards Compact Autonomous Driving Perception with Balanced Learning and Multi-sensor Fusion**|Oskar Natan et.al.|[2606.02979](http://arxiv.org/abs/2606.02979)|null|
 |**2026-06-01**|**TIDES: Time-Derivative Event Simulation via Deformable Reconstruction**|Christopher Thirgood et.al.|[2606.02058](http://arxiv.org/abs/2606.02058)|null|
 |**2026-05-31**|**Event-Based Vision in Space: Applications, Trends, and Future Directions**|Luigi Capogrosso et.al.|[2606.01280](http://arxiv.org/abs/2606.01280)|null|
