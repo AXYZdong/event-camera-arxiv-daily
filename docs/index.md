@@ -15,7 +15,7 @@ layout: default
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.06.29
+## Updated on 2026.07.06
 ## Event Camera
 
 | Publish Date | Title | Authors | PDF | Code |
