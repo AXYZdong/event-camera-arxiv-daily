@@ -11,7 +11,7 @@
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.07.27
+## Updated on 2026.08.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,6 +23,16 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**ENCORE: Event-Assisted Complementary Motion Refinement for Learned Video Compression**|Shuhan Ye et.al.|[2607.28020](http://arxiv.org/abs/2607.28020)|null|
+|**2026-07-29**|**Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras**|Katharina Bendig et.al.|[2607.26703](http://arxiv.org/abs/2607.26703)|null|
+|**2026-07-29**|**Towards an Extended VLTI: Turbulence Characterization for Kilometer-Scale Optical Links at Paranal**|B. Neichel et.al.|[2607.26540](http://arxiv.org/abs/2607.26540)|null|
+|**2026-07-26**|**Towards Ultrafast Depth Sensing Via Active Event-based Stereo Vision**|Jianing Li et.al.|[2607.23684](http://arxiv.org/abs/2607.23684)|null|
+|**2026-07-26**|**Neuromorphic Object Detection: An In-Depth Study and Future Directions**|Jianing Li et.al.|[2607.23576](http://arxiv.org/abs/2607.23576)|null|
+|**2026-07-17**|**Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation**|Jian Huang et.al.|[2607.15727](http://arxiv.org/abs/2607.15727)|null|
+|**2026-07-17**|**GoStop: Reinforcement Learning for Adaptive Temporal Aggregation in Event-Based Feature Tracking**|Youngho Kim et.al.|[2607.15699](http://arxiv.org/abs/2607.15699)|null|
+|**2026-07-16**|**ESAR: Event-Based Synthetic Aperture Reconstruction**|Harbir Antil et.al.|[2607.15073](http://arxiv.org/abs/2607.15073)|null|
+|**2026-07-16**|**JADE-GS: Joint Alternating Deblurring Guided by Events in 3D Gaussian Splatting**|Haoyu Fu et.al.|[2607.14990](http://arxiv.org/abs/2607.14990)|null|
+|**2026-07-16**|**AE-UAV: An Air-to-Air Event-Based UAV Tracking Benchmark and a Real-Time Frequency-Domain Tracker**|Zixin Jiang et.al.|[2607.14726](http://arxiv.org/abs/2607.14726)|null|
 |**2026-06-09**|**EventRadar: Long-Range Visual UAV Discovery through Spatiotemporal Event Sensing**|Zhiting Zhou et.al.|[2606.11285](http://arxiv.org/abs/2606.11285)|null|
 |**2026-06-09**|**Analog Quantum Asynchronous Event-Based Graph Neural Network**|Kristian Sotirov et.al.|[2606.11000](http://arxiv.org/abs/2606.11000)|null|
 |**2026-06-08**|**Minimal Solvers for Full-DoF Motion Estimation from Asynchronous Differential SfM**|Shuo Pan et.al.|[2606.09218](http://arxiv.org/abs/2606.09218)|null|
@@ -167,7 +177,7 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2025-12-17**|**Asynchronous Event Stream Noise Filtering for High-frequency Structure Deformation Measurement**|Yifei Bian et.al.|[2512.15055](http://arxiv.org/abs/2512.15055)|null|
 |**2025-12-20**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](http://arxiv.org/abs/2512.14595)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/event-camera-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/event-camera-arxiv-daily/graphs/contributors
