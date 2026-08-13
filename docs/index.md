@@ -15,11 +15,21 @@ layout: default
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.08.10
+## Updated on 2026.08.13
 ## Event Camera
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**Static in Frames, Dynamic in Events: Rethinking Features in Event Cameras as Motion Cues**|Hesam Araghi et.al.|[2608.11075](http://arxiv.org/abs/2608.11075)|null|
+|**2026-08-12**|**Bridging Event Streams and DiT: Event-Guided Video Frame Interpolation**|Guixu Lin et.al.|[2608.10479](http://arxiv.org/abs/2608.10479)|null|
+|**2026-08-10**|**A Height-Constrained 2-Point Minimal Solver for Pose Estimation from Active LED Markers with Event Cameras**|Runze Yuan et.al.|[2608.09520](http://arxiv.org/abs/2608.09520)|null|
+|**2026-08-09**|**EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams**|Zixuan Chen et.al.|[2608.08585](http://arxiv.org/abs/2608.08585)|null|
+|**2026-08-11**|**EsaacSim: A Multimodal Event Camera Add-on for NVIDIA Isaac Sim**|Ignacio Bugueno-Cordova et.al.|[2608.08522](http://arxiv.org/abs/2608.08522)|null|
+|**2026-08-08**|**EvBS: Event-guided Blur Synthesis for Domain-adaptive Motion Deblurring**|Junsik Jung et.al.|[2608.08066](http://arxiv.org/abs/2608.08066)|null|
+|**2026-08-06**|**EvReflection: Event-Driven Micro-Dynamics for Reflection Removal**|Jiaxiao Wang et.al.|[2608.06184](http://arxiv.org/abs/2608.06184)|null|
+|**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
+|**2026-08-04**|**Event-Based Spatial-Carrier Interferometry for Surface-Normal Vibration-Waveform Reconstruction**|Ryogo Niwa et.al.|[2608.03343](http://arxiv.org/abs/2608.03343)|null|
+|**2026-08-04**|**PLS-Calib: A Partial Least Squares Framework for Event Camera and Odometry Calibration under Ground Motion Constraints**|Guangyu Li et.al.|[2608.03296](http://arxiv.org/abs/2608.03296)|null|
 |**2026-07-30**|**ENCORE: Event-Assisted Complementary Motion Refinement for Learned Video Compression**|Shuhan Ye et.al.|[2607.28020](http://arxiv.org/abs/2607.28020)|null|
 |**2026-07-29**|**Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras**|Katharina Bendig et.al.|[2607.26703](http://arxiv.org/abs/2607.26703)|null|
 |**2026-07-29**|**Towards an Extended VLTI: Turbulence Characterization for Kilometer-Scale Optical Links at Paranal**|B. Neichel et.al.|[2607.26540](http://arxiv.org/abs/2607.26540)|null|
