@@ -111,7 +111,10 @@ def get_daily_papers(topic, query=" ", max_results=2):
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
   
-    client = arxiv.Client()
+    client = arxiv.Client(
+    delay_seconds=3.0,   # 每次请求之间间隔 3 秒
+    num_retries=5        # 遇到 429 等错误时自动重试
+    )
   
     for result in client.results(search_engine):
 
