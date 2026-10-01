@@ -11,7 +11,7 @@
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.09.29
+## Updated on 2026.10.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,6 +23,8 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|null|
+|**2026-09-28**|**Stealth Is a Relation, Not a Property: How Event Representations Create Blind Spots for Timing Attacks in Event-Based Perception**|Shoaib Ahmed Dipu et.al.|[2609.36386](http://arxiv.org/abs/2609.36386)|null|
 |**2026-09-28**|**ECHO: Event-Augmented Context with Hindsight and Outlook for Wrist-Only Manipulation**|Xinyue Wang et.al.|[2609.34893](http://arxiv.org/abs/2609.34893)|null|
 |**2026-09-28**|**E-WAVE: Event-based Continuous Optical Flow via Warping-Aligned Visual Encoding**|Jiale Wu et.al.|[2609.34346](http://arxiv.org/abs/2609.34346)|null|
 |**2026-09-27**|**Video, Ergo Genero: Unifying Video Tasks via Spatiotemporal Analogy**|Chia-Hsiang Kao et.al.|[2609.33935](http://arxiv.org/abs/2609.33935)|null|
@@ -202,7 +204,7 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2025-12-17**|**Asynchronous Event Stream Noise Filtering for High-frequency Structure Deformation Measurement**|Yifei Bian et.al.|[2512.15055](http://arxiv.org/abs/2512.15055)|null|
 |**2025-12-20**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](http://arxiv.org/abs/2512.14595)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/event-camera-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/event-camera-arxiv-daily/graphs/contributors
