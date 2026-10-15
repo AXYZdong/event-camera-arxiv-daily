@@ -11,7 +11,7 @@
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.10.12
+## Updated on 2026.10.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,6 +23,16 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Event Cameras versus Frame Cameras for Synthetic-Aperture Imaging: A Simulation Study**|Jakob Hinterholzer et.al.|[2610.20309](http://arxiv.org/abs/2610.20309)|null|
+|**2026-10-09**|**Event-based Action Recognition by Pre-Training on Multi-Frame Representations**|Emma Norrby et.al.|[2610.13856](http://arxiv.org/abs/2610.13856)|null|
+|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|null|
+|**2026-10-07**|**Bringing BNNs to Fast Event Processing**|Paul Longour et.al.|[2610.09873](http://arxiv.org/abs/2610.09873)|null|
+|**2026-10-06**|**PIE-PS: Photometric Stereo from Physical Irradiance Event Streams**|Xiangze Meng et.al.|[2610.08188](http://arxiv.org/abs/2610.08188)|null|
+|**2026-10-03**|**Event Cameras for Melt-Pool Monitoring in Additive Manufacturing: A Benchmark and a Cross-Machine Transfer Analysis**|Mohamad Yazan Sadoun et.al.|[2610.06973](http://arxiv.org/abs/2610.06973)|null|
+|**2026-10-03**|**Asynchronous Tracking, Optical Communication and 3D Motion Capture using Event-based Sensors**|Ziwei Wang et.al.|[2610.04342](http://arxiv.org/abs/2610.04342)|null|
+|**2026-10-02**|**Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation**|Daikun Liu et.al.|[2610.03439](http://arxiv.org/abs/2610.03439)|null|
+|**2026-10-01**|**Real-time Event-camera Stereo Visual Odometry via Keytime Gaussian Process Regression**|Nikan Nobari et.al.|[2610.02601](http://arxiv.org/abs/2610.02601)|null|
+|**2026-09-29**|**Vmem- $\varphi$ : Low-Compute Out-of-Distribution Detection in Spiking Neural Networks from Membrane-Potential Statistics**|Arul Rana et.al.|[2610.00350](http://arxiv.org/abs/2610.00350)|null|
 |**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|null|
 |**2026-09-28**|**Stealth Is a Relation, Not a Property: How Event Representations Create Blind Spots for Timing Attacks in Event-Based Perception**|Shoaib Ahmed Dipu et.al.|[2609.36386](http://arxiv.org/abs/2609.36386)|null|
 |**2026-09-28**|**ECHO: Event-Augmented Context with Hindsight and Outlook for Wrist-Only Manipulation**|Xinyue Wang et.al.|[2609.34893](http://arxiv.org/abs/2609.34893)|null|
@@ -204,7 +214,7 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2025-12-17**|**Asynchronous Event Stream Noise Filtering for High-frequency Structure Deformation Measurement**|Yifei Bian et.al.|[2512.15055](http://arxiv.org/abs/2512.15055)|null|
 |**2025-12-20**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](http://arxiv.org/abs/2512.14595)|null|
 
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/event-camera-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/event-camera-arxiv-daily/graphs/contributors
