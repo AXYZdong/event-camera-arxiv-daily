@@ -15,11 +15,21 @@ layout: default
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.10.26
+## Updated on 2026.11.01
 ## Event Camera
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**EventSeeColor: Learning to Reconstruct Color from Monochrome Events**|Chuanzhi Xu et.al.|[2610.40166](http://arxiv.org/abs/2610.40166)|null|
+|**2026-10-29**|**Event-SAMA: Language-Grounded Video Object Segmentation on Neuromorphic Event Streams**|Sergei Fedorchenko et.al.|[2610.39676](http://arxiv.org/abs/2610.39676)|null|
+|**2026-10-28**|**Learning Event-based Obstacle Avoidance via Differentiable Simulation**|Chenlu Shou et.al.|[2610.38967](http://arxiv.org/abs/2610.38967)|null|
+|**2026-10-27**|**Learning Without Clocks: Partition-Invariant Neural Network**|Han Wang et.al.|[2610.37823](http://arxiv.org/abs/2610.37823)|null|
+|**2026-10-27**|**Rendering-Free Event Frame Simulation for Fast Reinforcement Learning of Autonomous Robot Navigation**|Dequan Ou et.al.|[2610.37543](http://arxiv.org/abs/2610.37543)|null|
+|**2026-10-27**|**MvT: Event-based Multi-view Projection for Multiple Object Tracking**|Muxi Zha et.al.|[2610.37309](http://arxiv.org/abs/2610.37309)|null|
+|**2026-10-27**|**4D Reconstruction with Events & RGB**|Dulanga Weerakoon et.al.|[2610.36610](http://arxiv.org/abs/2610.36610)|null|
+|**2026-10-23**|**Tight Learned Event-Inertial Odometry (TLEIO): a Transformer-Based Architecture for End-to-End Motion from Event Streams**|Matteo Cascone et.al.|[2610.33356](http://arxiv.org/abs/2610.33356)|null|
+|**2026-10-22**|**CoHelix: Event-Based Multi-Propeller Rotation-Rate Tracking with Shared Projective Geometry**|Radim Spetlik et.al.|[2610.31384](http://arxiv.org/abs/2610.31384)|null|
+|**2026-10-19**|**RGB--Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion**|Peijun Shi et.al.|[2610.26090](http://arxiv.org/abs/2610.26090)|null|
 |**2026-10-14**|**Event Cameras versus Frame Cameras for Synthetic-Aperture Imaging: A Simulation Study**|Jakob Hinterholzer et.al.|[2610.20309](http://arxiv.org/abs/2610.20309)|null|
 |**2026-10-09**|**Event-based Action Recognition by Pre-Training on Multi-Frame Representations**|Emma Norrby et.al.|[2610.13856](http://arxiv.org/abs/2610.13856)|null|
 |**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|null|
