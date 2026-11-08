@@ -15,11 +15,17 @@ layout: default
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.11.02
+## Updated on 2026.11.08
 ## Event Camera
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception**|Sacha Jungerman et.al.|[2611.08368](http://arxiv.org/abs/2611.08368)|null|
+|**2026-11-05**|**Selective Event Evidence and Persistent Temporal Priors for Event-Based Point Tracking**|Xiaokai Song et.al.|[2611.07713](http://arxiv.org/abs/2611.07713)|null|
+|**2026-11-05**|**Real-Time Event-Based LED Tracking and Pose Estimation with PWM-Encoded Markers**|Junkai Niu et.al.|[2611.07630](http://arxiv.org/abs/2611.07630)|null|
+|**2026-11-03**|**Neuromorphic Camera for Multi-Target Pointing Acquisition and Tracking in Free Space Optical Communication**|Francesco Nardo et.al.|[2611.05503](http://arxiv.org/abs/2611.05503)|null|
+|**2026-11-02**|**HIVE-Diff: High Frame Rate HDR Video Reconstruction from a Single LDR Frame and Events**|Caixin Wang et.al.|[2611.03465](http://arxiv.org/abs/2611.03465)|null|
+|**2026-11-01**|**Text-Assisted Event Stream Visual Place Recognition via Multi-Scale Spatiotemporal Optimal Transport**|Lan Chen et.al.|[2611.01558](http://arxiv.org/abs/2611.01558)|null|
 |**2026-10-29**|**EventSeeColor: Learning to Reconstruct Color from Monochrome Events**|Chuanzhi Xu et.al.|[2610.40166](http://arxiv.org/abs/2610.40166)|null|
 |**2026-10-29**|**Event-SAMA: Language-Grounded Video Object Segmentation on Neuromorphic Event Streams**|Sergei Fedorchenko et.al.|[2610.39676](http://arxiv.org/abs/2610.39676)|null|
 |**2026-10-28**|**Learning Event-based Obstacle Avoidance via Differentiable Simulation**|Chenlu Shou et.al.|[2610.38967](http://arxiv.org/abs/2610.38967)|null|
