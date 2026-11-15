@@ -11,7 +11,7 @@
 </p>
 
 This repository collects daily updated papers on Event Camera from [arXiv](https://arxiv.org/).
-## Updated on 2026.11.09
+## Updated on 2026.11.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,10 +23,15 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-11**|**How Far Can Frozen Vision-Language Models Go on Event Data? A Training-Free Study on EventBench**|Md Kamrujjaman Mobin et.al.|[2611.15756](http://arxiv.org/abs/2611.15756)|null|
+|**2026-11-10**|**Information-Theoretic Threshold Design for Sparse Event Encoding in Learning Systems**|Pratishtha Shukla et.al.|[2611.14249](http://arxiv.org/abs/2611.14249)|null|
+|**2026-11-10**|**When Reconstruction Helps Event-Camera Person Triggers**|Yifan Shuai et.al.|[2611.13488](http://arxiv.org/abs/2611.13488)|null|
+|**2026-11-06**|**Direct Regression and Geometric Recovery for Event-based Spacecraft Pose Estimation**|Pruthvi Nandan Janga et.al.|[2611.09717](http://arxiv.org/abs/2611.09717)|null|
+|**2026-11-05**|**eSharp: Diffusion-based Sharp Monocular Metric Event-to-Depth Estimation**|Qiushi Dai et.al.|[2611.08731](http://arxiv.org/abs/2611.08731)|null|
 |**2026-11-05**|**VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception**|Sacha Jungerman et.al.|[2611.08368](http://arxiv.org/abs/2611.08368)|null|
 |**2026-11-05**|**Selective Event Evidence and Persistent Temporal Priors for Event-Based Point Tracking**|Xiaokai Song et.al.|[2611.07713](http://arxiv.org/abs/2611.07713)|null|
 |**2026-11-05**|**Real-Time Event-Based LED Tracking and Pose Estimation with PWM-Encoded Markers**|Junkai Niu et.al.|[2611.07630](http://arxiv.org/abs/2611.07630)|null|
-|**2026-11-03**|**Neuromorphic Camera for Multi-Target Pointing Acquisition and Tracking in Free Space Optical Communication**|Francesco Nardo et.al.|[2611.05503](http://arxiv.org/abs/2611.05503)|null|
+|**2026-11-11**|**Neuromorphic Camera for Multi-Target Pointing Acquisition and Tracking in Free Space Optical Communication**|Francesco Nardo et.al.|[2611.05503](http://arxiv.org/abs/2611.05503)|null|
 |**2026-11-02**|**HIVE-Diff: High Frame Rate HDR Video Reconstruction from a Single LDR Frame and Events**|Caixin Wang et.al.|[2611.03465](http://arxiv.org/abs/2611.03465)|null|
 |**2026-11-01**|**Text-Assisted Event Stream Visual Place Recognition via Multi-Scale Spatiotemporal Optimal Transport**|Lan Chen et.al.|[2611.01558](http://arxiv.org/abs/2611.01558)|null|
 |**2026-10-29**|**EventSeeColor: Learning to Reconstruct Color from Monochrome Events**|Chuanzhi Xu et.al.|[2610.40166](http://arxiv.org/abs/2610.40166)|null|
@@ -230,7 +235,7 @@ This repository collects daily updated papers on Event Camera from [arXiv](https
 |**2025-12-17**|**Asynchronous Event Stream Noise Filtering for High-frequency Structure Deformation Measurement**|Yifei Bian et.al.|[2512.15055](http://arxiv.org/abs/2512.15055)|null|
 |**2025-12-20**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](http://arxiv.org/abs/2512.14595)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AXYZdong/event-camera-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/AXYZdong/event-camera-arxiv-daily/graphs/contributors
